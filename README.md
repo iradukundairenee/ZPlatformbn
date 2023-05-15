@@ -28,39 +28,64 @@ The project budget is $100,000.
 Project Team
 The project team will consist of the following members:
 
-Project Manager
+
+Project Manager'
+
 Software Engineers
+
 QA Engineers
+
 Security Engineers
+
 Project Risks
+
 The following risks have been identified for this project:
 
+
+
 The project may not be completed on time or within budget.
+
 The new features may not meet the user's expectations.
+
 The new features may not be secure.
+
 Project Mitigation Strategies
+
 The following mitigation strategies have been developed to address the risks identified above:
 
 The project will be closely monitored to ensure that it is on track.
+
 The user's expectations will be carefully gathered and documented.
+
 Security will be a top priority throughout the development process.
+
 Project Success Metrics
+
 The following success metrics will be used to measure the success of this project:
 
 The number of new users who successfully complete the on-boarding process.
+
 The average response time for the application.
+
 The number of security incidents.
+
 Getting Started
+
 To get started with ZPlatform, you will need to:
 
-Clone the repository.
+Clone the repository by git clone 
+
 Install the dependencies.
+
 Run the application.
 
 License
 ZPlatform is licensed under the MIT License.
 
 Tech Stack
+
 Node.js
+
 Express
+
 PostgreSQL
