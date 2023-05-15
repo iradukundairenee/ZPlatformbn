@@ -1,5 +1,5 @@
 
-Sure, I can add that to the README. Here is the updated README:
+
 
 ZPlatform
 ZPlatform is a platform that provides essential online services for tens of thousands of users. Company Z is going through stages of growth and adding 1000s of users daily, while still serving millions of transactions per month. The goal of this project is to improve the following key features of the platform:
