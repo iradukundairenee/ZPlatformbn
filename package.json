@@ -1,0 +1,11 @@
+{
+  "name": "zplatformbn",
+  "version": "1.0.0",
+  "description": "Sure, I can add that to the README. Here is the updated README:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
