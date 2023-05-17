@@ -4,9 +4,8 @@ import checkUserExists from '../../middlewares/userExist.js';
 import userSchema from '../../validators/schemas/user.schemas.js';
 import validator from '../../middlewares/validator.js';
 
-
+//routes
 const router = Router();
-//validator(userSchema),
 router.post('/signup', validator(userSchema),checkUserExists, authController.signup);
 router.post('/login', authController.login);
 router.get('/', authController.getAllUsers);
