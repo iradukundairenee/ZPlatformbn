@@ -1,4 +1,4 @@
-import sendReponse from '../utils/response';
+import sendReponse from '../utils/response.js';
 
 const welcomeController = {
 
